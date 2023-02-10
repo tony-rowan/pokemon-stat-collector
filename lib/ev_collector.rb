@@ -29,8 +29,6 @@ class EVCollector
       }
     end
 
-    File.open("./output.yml", "w") do |file|
-      file.write(YAML.dump(slim_stats))
-    end
+    File.write("./output.yml", YAML.dump(slim_stats))
   end
 end
