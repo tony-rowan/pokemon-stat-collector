@@ -13,6 +13,7 @@ class StatCollector
       {
         "number" => pokemon.id,
         "name" => pokemon.name,
+        "image" => pokemon.sprites.front_default,
         "ev_yield" => pokemon.stats
           .select { _1.effort > 0 }
           .to_h { [_1.stat.name.gsub("-", "_"), _1.effort] }
