@@ -2,17 +2,17 @@
 - number: 1
   name: bulbasaur
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 2
   name: ivysaur
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 3
   name: venusaur
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 4
   name: charmander
   ev_yield:
@@ -20,12 +20,12 @@
 - number: 5
   name: charmeleon
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 6
   name: charizard
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 7
   name: squirtle
   ev_yield:
@@ -34,11 +34,11 @@
   name: wartortle
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 9
   name: blastoise
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10
   name: caterpie
   ev_yield:
@@ -50,8 +50,8 @@
 - number: 12
   name: butterfree
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 13
   name: weedle
   ev_yield:
@@ -64,7 +64,7 @@
   name: beedrill
   ev_yield:
     attack: 2
-    special-defense: 1
+    special_defense: 1
 - number: 16
   name: pidgey
   ev_yield:
@@ -156,7 +156,7 @@
 - number: 38
   name: ninetales
   ev_yield:
-    special-defense: 1
+    special_defense: 1
     speed: 1
 - number: 39
   name: jigglypuff
@@ -177,15 +177,15 @@
 - number: 43
   name: oddish
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 44
   name: gloom
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 45
   name: vileplume
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 46
   name: paras
   ev_yield:
@@ -198,11 +198,11 @@
 - number: 48
   name: venonat
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 49
   name: venomoth
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 50
   name: diglett
@@ -223,11 +223,11 @@
 - number: 54
   name: psyduck
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 55
   name: golduck
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 56
   name: mankey
   ev_yield:
@@ -259,15 +259,15 @@
 - number: 63
   name: abra
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 64
   name: kadabra
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 65
   name: alakazam
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 66
   name: machop
   ev_yield:
@@ -295,11 +295,11 @@
 - number: 72
   name: tentacool
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 73
   name: tentacruel
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 74
   name: geodude
   ev_yield:
@@ -331,11 +331,11 @@
 - number: 81
   name: magnemite
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 82
   name: magneton
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 83
   name: farfetchd
   ev_yield:
@@ -351,11 +351,11 @@
 - number: 86
   name: seel
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 87
   name: dewgong
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 88
   name: grimer
   ev_yield:
@@ -376,15 +376,15 @@
 - number: 92
   name: gastly
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 93
   name: haunter
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 94
   name: gengar
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 95
   name: onix
   ev_yield:
@@ -392,11 +392,11 @@
 - number: 96
   name: drowzee
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 97
   name: hypno
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 98
   name: krabby
   ev_yield:
@@ -420,7 +420,7 @@
 - number: 103
   name: exeggutor
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 104
   name: cubone
   ev_yield:
@@ -436,7 +436,7 @@
 - number: 107
   name: hitmonchan
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 108
   name: lickitung
   ev_yield:
@@ -472,12 +472,12 @@
 - number: 116
   name: horsea
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 117
   name: seadra
   ev_yield:
     defense: 1
-    special-attack: 1
+    special_attack: 1
 - number: 118
   name: goldeen
   ev_yield:
@@ -497,7 +497,7 @@
 - number: 122
   name: mr-mime
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 123
   name: scyther
   ev_yield:
@@ -505,7 +505,7 @@
 - number: 124
   name: jynx
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 125
   name: electabuzz
   ev_yield:
@@ -513,7 +513,7 @@
 - number: 126
   name: magmar
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 127
   name: pinsir
   ev_yield:
@@ -542,7 +542,7 @@
 - number: 133
   name: eevee
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 134
   name: vaporeon
   ev_yield:
@@ -558,7 +558,7 @@
 - number: 137
   name: porygon
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 138
   name: omanyte
   ev_yield:
@@ -586,15 +586,15 @@
 - number: 144
   name: articuno
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 145
   name: zapdos
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 146
   name: moltres
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 147
   name: dratini
   ev_yield:
@@ -610,7 +610,7 @@
 - number: 150
   name: mewtwo
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 151
   name: mew
   ev_yield:
@@ -618,17 +618,17 @@
 - number: 152
   name: chikorita
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 153
   name: bayleef
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 154
   name: meganium
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 155
   name: cyndaquil
   ev_yield:
@@ -636,12 +636,12 @@
 - number: 156
   name: quilava
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 157
   name: typhlosion
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 158
   name: totodile
   ev_yield:
@@ -675,11 +675,11 @@
 - number: 165
   name: ledyba
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 166
   name: ledian
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 167
   name: spinarak
   ev_yield:
@@ -707,7 +707,7 @@
 - number: 173
   name: cleffa
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 174
   name: igglybuff
   ev_yield:
@@ -715,36 +715,36 @@
 - number: 175
   name: togepi
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 176
   name: togetic
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 177
   name: natu
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 178
   name: xatu
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 179
   name: mareep
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 180
   name: flaaffy
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 181
   name: ampharos
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 182
   name: bellossom
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 183
   name: marill
   ev_yield:
@@ -760,11 +760,11 @@
 - number: 186
   name: politoed
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 187
   name: hoppip
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 188
   name: skiploom
   ev_yield:
@@ -780,11 +780,11 @@
 - number: 191
   name: sunkern
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 192
   name: sunflora
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 193
   name: yanma
   ev_yield:
@@ -800,11 +800,11 @@
 - number: 196
   name: espeon
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 197
   name: umbreon
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 198
   name: murkrow
   ev_yield:
@@ -812,16 +812,16 @@
 - number: 199
   name: slowking
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 200
   name: misdreavus
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 201
   name: unown
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 202
   name: wobbuffet
   ev_yield:
@@ -829,7 +829,7 @@
 - number: 203
   name: girafarig
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 204
   name: pineco
   ev_yield:
@@ -870,7 +870,7 @@
   name: shuckle
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 214
   name: heracross
   ev_yield:
@@ -890,7 +890,7 @@
 - number: 218
   name: slugma
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 219
   name: magcargo
   ev_yield:
@@ -908,16 +908,16 @@
   name: corsola
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 223
   name: remoraid
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 224
   name: octillery
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 225
   name: delibird
   ev_yield:
@@ -925,7 +925,7 @@
 - number: 226
   name: mantine
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 227
   name: skarmory
   ev_yield:
@@ -933,17 +933,17 @@
 - number: 228
   name: houndour
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 229
   name: houndoom
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 230
   name: kingdra
   ev_yield:
     attack: 1
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 231
   name: phanpy
   ev_yield:
@@ -956,7 +956,7 @@
 - number: 233
   name: porygon2
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 234
   name: stantler
   ev_yield:
@@ -972,11 +972,11 @@
 - number: 237
   name: hitmontop
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 238
   name: smoochum
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 239
   name: elekid
   ev_yield:
@@ -996,7 +996,7 @@
 - number: 243
   name: raikou
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 2
 - number: 244
   name: entei
@@ -1007,7 +1007,7 @@
   name: suicune
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 246
   name: larvitar
   ev_yield:
@@ -1023,11 +1023,11 @@
 - number: 249
   name: lugia
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 250
   name: ho-oh
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 251
   name: celebi
   ev_yield:
@@ -1047,12 +1047,12 @@
 - number: 255
   name: torchic
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 256
   name: combusken
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 257
   name: blaziken
   ev_yield:
@@ -1096,7 +1096,7 @@
 - number: 267
   name: beautifly
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 268
   name: cascoon
   ev_yield:
@@ -1104,19 +1104,19 @@
 - number: 269
   name: dustox
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 270
   name: lotad
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 271
   name: lombre
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 272
   name: ludicolo
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 273
   name: seedot
   ev_yield:
@@ -1148,15 +1148,15 @@
 - number: 280
   name: ralts
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 281
   name: kirlia
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 282
   name: gardevoir
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 283
   name: surskit
   ev_yield:
@@ -1164,8 +1164,8 @@
 - number: 284
   name: masquerain
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 285
   name: shroomish
   ev_yield:
@@ -1292,7 +1292,7 @@
 - number: 315
   name: roselia
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 316
   name: gulpin
   ev_yield:
@@ -1320,12 +1320,12 @@
 - number: 322
   name: numel
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 323
   name: camerupt
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 324
   name: torkoal
   ev_yield:
@@ -1333,15 +1333,15 @@
 - number: 325
   name: spoink
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 326
   name: grumpig
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 327
   name: spinda
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 328
   name: trapinch
   ev_yield:
@@ -1359,20 +1359,20 @@
 - number: 331
   name: cacnea
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 332
   name: cacturne
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 333
   name: swablu
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 334
   name: altaria
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 335
   name: zangoose
   ev_yield:
@@ -1381,11 +1381,11 @@
   name: seviper
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 337
   name: lunatone
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 338
   name: solrock
   ev_yield:
@@ -1409,19 +1409,19 @@
 - number: 343
   name: baltoy
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 344
   name: claydol
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 345
   name: lileep
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 346
   name: cradily
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 347
   name: anorith
   ev_yield:
@@ -1437,7 +1437,7 @@
 - number: 350
   name: milotic
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 351
   name: castform
   ev_yield:
@@ -1445,7 +1445,7 @@
 - number: 352
   name: kecleon
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 353
   name: shuppet
   ev_yield:
@@ -1457,12 +1457,12 @@
 - number: 355
   name: duskull
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 356
   name: dusclops
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 357
   name: tropius
   ev_yield:
@@ -1470,8 +1470,8 @@
 - number: 358
   name: chimecho
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 359
   name: absol
   ev_yield:
@@ -1512,7 +1512,7 @@
 - number: 368
   name: gorebyss
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 369
   name: relicanth
   ev_yield:
@@ -1553,24 +1553,24 @@
 - number: 378
   name: regice
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 379
   name: registeel
   ev_yield:
     defense: 2
-    special-defense: 1
+    special_defense: 1
 - number: 380
   name: latias
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 381
   name: latios
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 382
   name: kyogre
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 383
   name: groudon
   ev_yield:
@@ -1579,7 +1579,7 @@
   name: rayquaza
   ev_yield:
     attack: 2
-    special-attack: 1
+    special_attack: 1
 - number: 385
   name: jirachi
   ev_yield:
@@ -1588,7 +1588,7 @@
   name: deoxys-normal
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 387
   name: turtwig
@@ -1611,26 +1611,26 @@
 - number: 391
   name: monferno
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 392
   name: infernape
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 393
   name: piplup
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 394
   name: prinplup
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 395
   name: empoleon
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 396
   name: starly
   ev_yield:
@@ -1674,11 +1674,11 @@
 - number: 406
   name: budew
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 407
   name: roserade
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 408
   name: cranidos
   ev_yield:
@@ -1698,16 +1698,16 @@
 - number: 412
   name: burmy
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 413
   name: wormadam-plant
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 414
   name: mothim
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 415
   name: combee
   ev_yield:
@@ -1716,7 +1716,7 @@
   name: vespiquen
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 417
   name: pachirisu
   ev_yield:
@@ -1732,11 +1732,11 @@
 - number: 420
   name: cherubi
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 421
   name: cherrim
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 422
   name: shellos
   ev_yield:
@@ -1768,8 +1768,8 @@
 - number: 429
   name: mismagius
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 430
   name: honchkrow
   ev_yield:
@@ -1785,7 +1785,7 @@
 - number: 433
   name: chingling
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 434
   name: stunky
   ev_yield:
@@ -1802,7 +1802,7 @@
   name: bronzong
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 438
   name: bonsly
   ev_yield:
@@ -1810,7 +1810,7 @@
 - number: 439
   name: mime-jr
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 440
   name: happiny
   ev_yield:
@@ -1823,7 +1823,7 @@
   name: spiritomb
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 443
   name: gible
   ev_yield:
@@ -1848,7 +1848,7 @@
   name: lucario
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 449
   name: hippopotas
   ev_yield:
@@ -1888,7 +1888,7 @@
 - number: 458
   name: mantyke
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 459
   name: snover
   ev_yield:
@@ -1897,7 +1897,7 @@
   name: abomasnow
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 461
   name: weavile
   ev_yield:
@@ -1906,7 +1906,7 @@
 - number: 462
   name: magnezone
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 463
   name: lickilicky
   ev_yield:
@@ -1926,12 +1926,12 @@
 - number: 467
   name: magmortar
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 468
   name: togekiss
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 469
   name: yanmega
   ev_yield:
@@ -1943,7 +1943,7 @@
 - number: 471
   name: glaceon
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 472
   name: gliscor
   ev_yield:
@@ -1955,7 +1955,7 @@
 - number: 474
   name: porygon-z
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 475
   name: gallade
   ev_yield:
@@ -1964,12 +1964,12 @@
   name: probopass
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 477
   name: dusknoir
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 478
   name: froslass
   ev_yield:
@@ -1977,36 +1977,36 @@
 - number: 479
   name: rotom
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 480
   name: uxie
   ev_yield:
     defense: 2
-    special-defense: 1
+    special_defense: 1
 - number: 481
   name: mesprit
   ev_yield:
     attack: 1
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
 - number: 482
   name: azelf
   ev_yield:
     attack: 2
-    special-attack: 1
+    special_attack: 1
 - number: 483
   name: dialga
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 484
   name: palkia
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 485
   name: heatran
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 486
   name: regigigas
   ev_yield:
@@ -2018,7 +2018,7 @@
 - number: 488
   name: cresselia
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 489
   name: phione
   ev_yield:
@@ -2030,7 +2030,7 @@
 - number: 491
   name: darkrai
   ev_yield:
-    special-attack: 2
+    special_attack: 2
     speed: 1
 - number: 492
   name: shaymin-land
@@ -2071,15 +2071,15 @@
 - number: 501
   name: oshawott
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 502
   name: dewott
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 503
   name: samurott
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 504
   name: patrat
   ev_yield:
@@ -2260,11 +2260,11 @@
 - number: 548
   name: petilil
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 549
   name: lilligant
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 550
   name: basculin-red-striped
   ev_yield:
@@ -2292,7 +2292,7 @@
 - number: 556
   name: maractus
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 557
   name: dwebble
   ev_yield:
@@ -2309,11 +2309,11 @@
   name: scrafty
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 561
   name: sigilyph
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 562
   name: yamask
   ev_yield:
@@ -2349,11 +2349,11 @@
 - number: 570
   name: zorua
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 571
   name: zoroark
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 572
   name: minccino
   ev_yield:
@@ -2365,27 +2365,27 @@
 - number: 574
   name: gothita
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 575
   name: gothorita
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 576
   name: gothitelle
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 577
   name: solosis
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 578
   name: duosion
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 579
   name: reuniclus
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 580
   name: ducklett
   ev_yield:
@@ -2397,15 +2397,15 @@
 - number: 582
   name: vanillite
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 583
   name: vanillish
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 584
   name: vanilluxe
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 585
   name: deerling
   ev_yield:
@@ -2437,11 +2437,11 @@
 - number: 592
   name: frillish
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 593
   name: jellicent
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 594
   name: alomomola
   ev_yield:
@@ -2489,23 +2489,23 @@
 - number: 605
   name: elgyem
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 606
   name: beheeyem
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 607
   name: litwick
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 608
   name: lampent
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 609
   name: chandelure
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 610
   name: axew
   ev_yield:
@@ -2529,7 +2529,7 @@
 - number: 615
   name: cryogonal
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 616
   name: shelmet
   ev_yield:
@@ -2589,11 +2589,11 @@
 - number: 630
   name: mandibuzz
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 631
   name: heatmor
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 632
   name: durant
   ev_yield:
@@ -2609,7 +2609,7 @@
 - number: 635
   name: hydreigon
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 636
   name: larvesta
   ev_yield:
@@ -2617,7 +2617,7 @@
 - number: 637
   name: volcarona
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 638
   name: cobalion
   ev_yield:
@@ -2629,7 +2629,7 @@
 - number: 640
   name: virizion
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 641
   name: tornadus-incarnate
   ev_yield:
@@ -2641,7 +2641,7 @@
 - number: 643
   name: reshiram
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 644
   name: zekrom
   ev_yield:
@@ -2649,28 +2649,28 @@
 - number: 645
   name: landorus-incarnate
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 646
   name: kyurem
   ev_yield:
     hp: 1
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 647
   name: keldeo-ordinary
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 648
   name: meloetta-aria
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
     speed: 1
 - number: 649
   name: genesect
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 650
   name: chespin
@@ -2687,15 +2687,15 @@
 - number: 653
   name: fennekin
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 654
   name: braixen
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 655
   name: delphox
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 656
   name: froakie
   ev_yield:
@@ -2740,28 +2740,28 @@
   name: vivillon
   ev_yield:
     hp: 1
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 667
   name: litleo
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 668
   name: pyroar
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 669
   name: flabebe
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 670
   name: floette
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 671
   name: florges
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 672
   name: skiddo
   ev_yield:
@@ -2802,7 +2802,7 @@
   name: aegislash-shield
   ev_yield:
     defense: 2
-    special-defense: 1
+    special_defense: 1
 - number: 682
   name: spritzee
   ev_yield:
@@ -2838,19 +2838,19 @@
 - number: 690
   name: skrelp
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 691
   name: dragalge
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 692
   name: clauncher
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 693
   name: clawitzer
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 694
   name: helioptile
   ev_yield:
@@ -2858,7 +2858,7 @@
 - number: 695
   name: heliolisk
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 696
   name: tyrunt
@@ -2879,7 +2879,7 @@
 - number: 700
   name: sylveon
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 701
   name: hawlucha
   ev_yield:
@@ -2892,19 +2892,19 @@
   name: carbink
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 704
   name: goomy
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 705
   name: sliggoo
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 706
   name: goodra
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 707
   name: klefki
   ev_yield:
@@ -2957,15 +2957,15 @@
   name: diancie
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 720
   name: hoopa
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 721
   name: volcanion
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 722
   name: rowlet
   ev_yield:
@@ -2993,15 +2993,15 @@
 - number: 728
   name: popplio
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 729
   name: brionne
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 730
   name: primarina
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 731
   name: pikipek
   ev_yield:
@@ -3033,7 +3033,7 @@
 - number: 738
   name: vikavolt
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 739
   name: crabrawler
   ev_yield:
@@ -3045,7 +3045,7 @@
 - number: 741
   name: oricorio-baile
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 742
   name: cutiefly
   ev_yield:
@@ -3085,11 +3085,11 @@
 - number: 751
   name: dewpider
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 752
   name: araquanid
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 753
   name: fomantis
   ev_yield:
@@ -3101,11 +3101,11 @@
 - number: 755
   name: morelull
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 756
   name: shiinotic
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 757
   name: salandit
   ev_yield:
@@ -3137,11 +3137,11 @@
 - number: 764
   name: comfey
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 765
   name: oranguru
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 766
   name: passimian
   ev_yield:
@@ -3165,7 +3165,7 @@
 - number: 771
   name: pyukumuku
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 772
   name: type-null
   ev_yield:
@@ -3178,7 +3178,7 @@
   name: minior-red-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 775
   name: komala
   ev_yield:
@@ -3194,7 +3194,7 @@
 - number: 778
   name: mimikyu-disguised
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 779
   name: bruxish
   ev_yield:
@@ -3202,7 +3202,7 @@
 - number: 780
   name: drampa
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 781
   name: dhelmise
   ev_yield:
@@ -3226,7 +3226,7 @@
 - number: 786
   name: tapu-lele
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 787
   name: tapu-bulu
   ev_yield:
@@ -3234,7 +3234,7 @@
 - number: 788
   name: tapu-fini
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 789
   name: cosmog
   ev_yield:
@@ -3243,7 +3243,7 @@
   name: cosmoem
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 791
   name: solgaleo
   ev_yield:
@@ -3251,11 +3251,11 @@
 - number: 792
   name: lunala
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 793
   name: nihilego
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 794
   name: buzzwole
   ev_yield:
@@ -3268,13 +3268,13 @@
 - number: 796
   name: xurkitree
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 797
   name: celesteela
   ev_yield:
     attack: 1
     defense: 1
-    special-attack: 1
+    special_attack: 1
 - number: 798
   name: kartana
   ev_yield:
@@ -3287,11 +3287,11 @@
   name: necrozma
   ev_yield:
     attack: 1
-    special-attack: 2
+    special_attack: 2
 - number: 801
   name: magearna
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 802
   name: marshadow
   ev_yield:
@@ -3304,7 +3304,7 @@
 - number: 804
   name: naganadel
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 805
   name: stakataka
   ev_yield:
@@ -3312,7 +3312,7 @@
 - number: 806
   name: blacephalon
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 807
   name: zeraora
   ev_yield:
@@ -3352,12 +3352,12 @@
 - number: 816
   name: sobble
   ev_yield:
-    special-defense: 1
+    special_defense: 1
     speed: 1
 - number: 817
   name: drizzile
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 818
   name: inteleon
   ev_yield:
@@ -3385,31 +3385,31 @@
 - number: 824
   name: blipbug
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 825
   name: dottler
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 826
   name: orbeetle
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 827
   name: nickit
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 828
   name: thievul
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 829
   name: gossifleur
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 830
   name: eldegoss
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 831
   name: wooloo
   ev_yield:
@@ -3469,7 +3469,7 @@
 - number: 845
   name: cramorant
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 846
   name: arrokuda
   ev_yield:
@@ -3481,11 +3481,11 @@
 - number: 848
   name: toxel
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 849
   name: toxtricity-amped
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 850
   name: sizzlipede
   ev_yield:
@@ -3505,31 +3505,31 @@
 - number: 854
   name: sinistea
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 855
   name: polteageist
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 856
   name: hatenna
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 857
   name: hattrem
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 858
   name: hatterene
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 859
   name: impidimp
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 860
   name: morgrem
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 861
   name: grimmsnarl
   ev_yield:
@@ -3545,7 +3545,7 @@
 - number: 864
   name: cursola
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 865
   name: sirfetchd
   ev_yield:
@@ -3553,7 +3553,7 @@
 - number: 866
   name: mr-rime
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 867
   name: runerigus
   ev_yield:
@@ -3561,16 +3561,16 @@
 - number: 868
   name: milcery
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 869
   name: alcremie
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 870
   name: falinks
   ev_yield:
     attack: 2
-    special-defense: 1
+    special_defense: 1
 - number: 871
   name: pincurchin
   ev_yield:
@@ -3578,11 +3578,11 @@
 - number: 872
   name: snom
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 873
   name: frosmoth
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 874
   name: stonjourner
   ev_yield:
@@ -3594,7 +3594,7 @@
 - number: 876
   name: indeedee-male
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 877
   name: morpeko-full-belly
   ev_yield:
@@ -3626,7 +3626,7 @@
 - number: 884
   name: duraludon
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 885
   name: dreepy
   ev_yield:
@@ -3678,7 +3678,7 @@
 - number: 897
   name: spectrier
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 898
   name: calyrex
   ev_yield:
@@ -3711,7 +3711,7 @@
 - number: 905
   name: enamorus-incarnate
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 906
   name: sprigatito
   ev_yield:
@@ -3731,11 +3731,11 @@
 - number: 910
   name: crocalor
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 911
   name: skeledirge
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 912
   name: quaxly
   ev_yield:
@@ -3803,15 +3803,15 @@
 - number: 928
   name: smoliv
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 929
   name: dolliv
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 930
   name: arboliva
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 931
   name: squawkabilly
   ev_yield:
@@ -3831,11 +3831,11 @@
 - number: 935
   name: charcadet
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 936
   name: armarouge
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 937
   name: ceruledge
   ev_yield:
@@ -3883,11 +3883,11 @@
 - number: 948
   name: toedscool
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 949
   name: toedscruel
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 950
   name: klawf
   ev_yield:
@@ -3907,7 +3907,7 @@
 - number: 954
   name: rabsca
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 955
   name: flittle
   ev_yield:
@@ -3919,15 +3919,15 @@
 - number: 957
   name: tinkatink
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 958
   name: tinkatuff
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 959
   name: tinkaton
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 960
   name: wiglett
   ev_yield:
@@ -3967,11 +3967,11 @@
 - number: 969
   name: glimmet
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 970
   name: glimmora
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 971
   name: greavard
   ev_yield:
@@ -4003,7 +4003,7 @@
 - number: 978
   name: tatsugiri
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 979
   name: annihilape
   ev_yield:
@@ -4039,8 +4039,8 @@
 - number: 987
   name: flutter-mane
   ev_yield:
-    special-attack: 1
-    special-defense: 1
+    special_attack: 1
+    special_defense: 1
     speed: 1
 - number: 988
   name: slither-wing
@@ -4049,7 +4049,7 @@
 - number: 989
   name: sandy-shocks
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 990
   name: iron-treads
   ev_yield:
@@ -4065,11 +4065,11 @@
 - number: 993
   name: iron-jugulis
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 994
   name: iron-moth
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 995
   name: iron-thorns
   ev_yield:
@@ -4089,15 +4089,15 @@
 - number: 999
   name: gimmighoul
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 1000
   name: gholdengo
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 1001
   name: wo-chien
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 1002
   name: chien-pao
   ev_yield:
@@ -4109,7 +4109,7 @@
 - number: 1004
   name: chi-yu
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 1005
   name: roaring-moon
   ev_yield:
@@ -4125,17 +4125,17 @@
 - number: 1008
   name: miraidon
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10001
   name: deoxys-attack
   ev_yield:
     attack: 2
-    special-attack: 1
+    special_attack: 1
 - number: 10002
   name: deoxys-defense
   ev_yield:
     defense: 2
-    special-defense: 1
+    special_defense: 1
 - number: 10003
   name: deoxys-speed
   ev_yield:
@@ -4148,7 +4148,7 @@
   name: wormadam-trash
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10006
   name: shaymin-sky
   ev_yield:
@@ -4160,27 +4160,27 @@
 - number: 10008
   name: rotom-heat
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10009
   name: rotom-wash
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10010
   name: rotom-frost
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10011
   name: rotom-fan
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10012
   name: rotom-mow
   ev_yield:
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10013
   name: castform-sunny
@@ -4201,7 +4201,7 @@
 - number: 10017
   name: darmanitan-zen
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10018
   name: meloetta-pirouette
   ev_yield:
@@ -4215,7 +4215,7 @@
 - number: 10020
   name: thundurus-therian
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10021
   name: landorus-therian
   ev_yield:
@@ -4227,11 +4227,11 @@
 - number: 10023
   name: kyurem-white
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10024
   name: keldeo-resolute
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10025
   name: meowstic-female
   ev_yield:
@@ -4240,7 +4240,7 @@
   name: aegislash-blade
   ev_yield:
     attack: 2
-    special-attack: 1
+    special_attack: 1
 - number: 10027
   name: pumpkaboo-small
   ev_yield:
@@ -4268,28 +4268,28 @@
 - number: 10033
   name: venusaur-mega
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 10034
   name: charizard-mega-x
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10035
   name: charizard-mega-y
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10036
   name: blastoise-mega
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10037
   name: alakazam-mega
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10038
   name: gengar-mega
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10039
   name: kangaskhan-mega
   ev_yield:
@@ -4309,15 +4309,15 @@
 - number: 10043
   name: mewtwo-mega-x
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10044
   name: mewtwo-mega-y
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10045
   name: ampharos-mega
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10046
   name: scizor-mega
   ev_yield:
@@ -4329,7 +4329,7 @@
 - number: 10048
   name: houndoom-mega
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10049
   name: tyranitar-mega
   ev_yield:
@@ -4341,7 +4341,7 @@
 - number: 10051
   name: gardevoir-mega
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10052
   name: mawile-mega
   ev_yield:
@@ -4375,24 +4375,24 @@
   name: lucario-mega
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10060
   name: abomasnow-mega
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10061
   name: floette-eternal
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10062
   name: latias-mega
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10063
   name: latios-mega
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10064
   name: swampert-mega
   ev_yield:
@@ -4409,7 +4409,7 @@
 - number: 10067
   name: altaria-mega
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10068
   name: gallade-mega
   ev_yield:
@@ -4442,7 +4442,7 @@
   name: diancie-mega
   ev_yield:
     defense: 1
-    special-defense: 2
+    special_defense: 2
 - number: 10076
   name: metagross-mega
   ev_yield:
@@ -4450,7 +4450,7 @@
 - number: 10077
   name: kyogre-primal
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10078
   name: groudon-primal
   ev_yield:
@@ -4459,7 +4459,7 @@
   name: rayquaza-mega
   ev_yield:
     attack: 2
-    special-attack: 1
+    special_attack: 1
 - number: 10080
   name: pikachu-rock-star
   ev_yield:
@@ -4487,12 +4487,12 @@
 - number: 10086
   name: hoopa-unbound
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10087
   name: camerupt-mega
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10088
   name: lopunny-mega
   ev_yield:
@@ -4505,7 +4505,7 @@
   name: beedrill-mega
   ev_yield:
     attack: 2
-    special-defense: 1
+    special_defense: 1
 - number: 10091
   name: rattata-alola
   ev_yield:
@@ -4602,7 +4602,7 @@
 - number: 10114
   name: exeggutor-alola
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10115
   name: marowak-alola
   ev_yield:
@@ -4634,19 +4634,19 @@
 - number: 10122
   name: vikavolt-totem
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10123
   name: oricorio-pom-pom
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10124
   name: oricorio-pau
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10125
   name: oricorio-sensu
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10126
   name: lycanroc-midnight
   ev_yield:
@@ -4667,79 +4667,79 @@
   name: minior-orange-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10131
   name: minior-yellow-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10132
   name: minior-green-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10133
   name: minior-blue-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10134
   name: minior-indigo-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10135
   name: minior-violet-meteor
   ev_yield:
     defense: 1
-    special-defense: 1
+    special_defense: 1
 - number: 10136
   name: minior-red
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10137
   name: minior-orange
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10138
   name: minior-yellow
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10139
   name: minior-green
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10140
   name: minior-blue
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10141
   name: minior-indigo
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10142
   name: minior-violet
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
 - number: 10143
   name: mimikyu-busted
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10144
   name: mimikyu-totem-disguised
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10145
   name: mimikyu-totem-busted
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10146
   name: kommo-o-totem
   ev_yield:
@@ -4747,7 +4747,7 @@
 - number: 10147
   name: magearna-original
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10148
   name: pikachu-partner-cap
   ev_yield:
@@ -4771,7 +4771,7 @@
 - number: 10153
   name: araquanid-totem
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10154
   name: togedemaru-totem
   ev_yield:
@@ -4783,12 +4783,12 @@
 - number: 10156
   name: necrozma-dawn
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10157
   name: necrozma-ultra
   ev_yield:
     attack: 1
-    special-attack: 1
+    special_attack: 1
     speed: 1
 - number: 10158
   name: pikachu-starter
@@ -4797,7 +4797,7 @@
 - number: 10159
   name: eevee-starter
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 10160
   name: pikachu-world-cap
   ev_yield:
@@ -4837,7 +4837,7 @@
 - number: 10169
   name: articuno-galar
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10170
   name: zapdos-galar
   ev_yield:
@@ -4845,15 +4845,15 @@
 - number: 10171
   name: moltres-galar
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10172
   name: slowking-galar
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10173
   name: corsola-galar
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 10174
   name: zigzagoon-galar
   ev_yield:
@@ -4873,7 +4873,7 @@
 - number: 10178
   name: darmanitan-galar-zen
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10179
   name: yamask-galar
   ev_yield:
@@ -4889,15 +4889,15 @@
 - number: 10182
   name: cramorant-gulping
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10183
   name: cramorant-gorging
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10184
   name: toxtricity-low-key
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10185
   name: eiscue-noice
   ev_yield:
@@ -4905,7 +4905,7 @@
 - number: 10186
   name: indeedee-female
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10187
   name: morpeko-hangry
   ev_yield:
@@ -4937,25 +4937,25 @@
 - number: 10194
   name: calyrex-shadow
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10195
   name: venusaur-gmax
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 10196
   name: charizard-gmax
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10197
   name: blastoise-gmax
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10198
   name: butterfree-gmax
   ev_yield:
-    special-attack: 2
-    special-defense: 1
+    special_attack: 2
+    special_defense: 1
 - number: 10199
   name: pikachu-gmax
   ev_yield:
@@ -4971,7 +4971,7 @@
 - number: 10202
   name: gengar-gmax
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10203
   name: kingler-gmax
   ev_yield:
@@ -4983,7 +4983,7 @@
 - number: 10205
   name: eevee-gmax
   ev_yield:
-    special-defense: 1
+    special_defense: 1
 - number: 10206
   name: snorlax-gmax
   ev_yield:
@@ -5015,7 +5015,7 @@
 - number: 10213
   name: orbeetle-gmax
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10214
   name: drednaw-gmax
   ev_yield:
@@ -5039,7 +5039,7 @@
 - number: 10219
   name: toxtricity-amped-gmax
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10220
   name: centiskorch-gmax
   ev_yield:
@@ -5047,7 +5047,7 @@
 - number: 10221
   name: hatterene-gmax
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10222
   name: grimmsnarl-gmax
   ev_yield:
@@ -5055,7 +5055,7 @@
 - number: 10223
   name: alcremie-gmax
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10224
   name: copperajah-gmax
   ev_yield:
@@ -5063,7 +5063,7 @@
 - number: 10225
   name: duraludon-gmax
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10226
   name: urshifu-single-strike-gmax
   ev_yield:
@@ -5075,7 +5075,7 @@
 - number: 10228
   name: toxtricity-low-key-gmax
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10229
   name: growlithe-hisui
   ev_yield:
@@ -5095,7 +5095,7 @@
 - number: 10233
   name: typhlosion-hisui
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10234
   name: qwilfish-hisui
   ev_yield:
@@ -5107,19 +5107,19 @@
 - number: 10236
   name: samurott-hisui
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10237
   name: lilligant-hisui
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10238
   name: zorua-hisui
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 10239
   name: zoroark-hisui
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10240
   name: braviary-hisui
   ev_yield:
@@ -5127,11 +5127,11 @@
 - number: 10241
   name: sliggoo-hisui
   ev_yield:
-    special-defense: 2
+    special_defense: 2
 - number: 10242
   name: goodra-hisui
   ev_yield:
-    special-defense: 3
+    special_defense: 3
 - number: 10243
   name: avalugg-hisui
   ev_yield:
@@ -5143,11 +5143,11 @@
 - number: 10245
   name: dialga-origin
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10246
   name: palkia-origin
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10247
   name: basculin-white-striped
   ev_yield:
@@ -5195,11 +5195,11 @@
 - number: 10258
   name: tatsugiri-droopy
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10259
   name: tatsugiri-stretchy
   ev_yield:
-    special-attack: 2
+    special_attack: 2
 - number: 10260
   name: squawkabilly-blue-plumage
   ev_yield:
@@ -5215,7 +5215,7 @@
 - number: 10263
   name: gimmighoul-roaming
   ev_yield:
-    special-attack: 1
+    special_attack: 1
 - number: 10264
   name: koraidon-limited-build
   ev_yield:
@@ -5235,16 +5235,16 @@
 - number: 10268
   name: miraidon-low-power-mode
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10269
   name: miraidon-drive-mode
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10270
   name: miraidon-aquatic-mode
   ev_yield:
-    special-attack: 3
+    special_attack: 3
 - number: 10271
   name: miraidon-glide-mode
   ev_yield:
-    special-attack: 3
+    special_attack: 3
