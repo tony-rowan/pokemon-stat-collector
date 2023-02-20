@@ -2,7 +2,7 @@
 
 require 'optparse'
 
-require_relative "../lib/ev_collector"
+require_relative "../lib/stat_collector"
 
 options = {}
 OptionParser.new do |opts|
@@ -14,4 +14,4 @@ OptionParser.new do |opts|
 end.parse!
 
 
-EVCollector.run(**options)
+StatCollector.run(**options)

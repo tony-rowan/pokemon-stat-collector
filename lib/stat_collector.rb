@@ -3,7 +3,7 @@ require "yaml"
 
 require_relative "./poke_api"
 
-class EVCollector
+class StatCollector
   def self.run(...)
     new.run(...)
   end
@@ -19,6 +19,6 @@ class EVCollector
       }
     end
 
-    File.write("./output.yml", YAML.dump(statistics))
+    File.write("./out/output.yml", YAML.dump(statistics))
   end
 end
